@@ -1,1 +1,1 @@
-# StudenKSU--.github.io
+# StudenKSU.github.io
